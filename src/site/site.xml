@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<project name="Generated site for T54A4Demo">
+
+    <publishDate format="dd MMM yyyy"/>
+
+    <version/>
+
+    <body>
+
+        <menu name="T54A4Demo Project">
+            <item name="About" href="index.html"/>
+        </menu>
+
+        <menu ref="reports"/>
+
+    </body>
+</project>

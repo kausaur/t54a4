@@ -1,0 +1,8 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="T54A4Demo Application Test Suite" annotations="1.5">
+    <test name="Unit Tests">
+        <packages>
+            <package name="com.interra.example.T54A4Demo"/>
+        </packages>
+    </test>
+</suite>
